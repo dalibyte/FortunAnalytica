@@ -35,7 +35,7 @@ pip install requests yfinance pandas
 Contributions are welcome. Please fork the repo and submit a pull request.
 
 ## License
-MIT License - see [LICENSE](LICENSE) file.
+This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 For educational purposes only. Not financial advice.
